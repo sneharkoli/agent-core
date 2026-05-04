@@ -1,0 +1,29 @@
+# Python / general
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# AWS / secrets
+.aws/
+.env
+*.env
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# SageMaker junk (just in case)
+.sagemaker*
+.local/
+.npm/
+.jupyter/
